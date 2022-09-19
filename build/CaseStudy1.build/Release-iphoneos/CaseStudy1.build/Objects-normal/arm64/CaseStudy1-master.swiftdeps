@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "917371b71035dca77f28e110fce9ffa1605297a5c6a0a78f0157ec977828f850"
+build_start_time: [1663566515, 586143970]
+build_end_time: [1663566523, 41828155]
+inputs:
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/AppDelegate.swift": [1662537148, 801350593]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/EmployeeViewController.swift": [1661849096, 363575458]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/ForgotPasswordViewController.swift": [1663154412, 197396755]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/LoginViewController.swift": [1663326285, 275601863]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/MapViewController.swift": [1662534691, 86716651]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/NetworkCallViewController.swift": [1662122403, 288105010]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/OfflineJsonViewController.swift": [1663305283, 3842353]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/RowSelectedViewController.swift": [1661859192, 9509086]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/SceneDelegate.swift": [1662537070, 461272954]
+  "/Users/adminn/Documents/CaseStudy1/CaseStudy1/CaseStudy1/SignUpViewController.swift": [1662536197, 652195692]
+  ? "/Users/adminn/Documents/CaseStudy1/CaseStudy1/build/CaseStudy1.build/Release-iphoneos/CaseStudy1.build/DerivedSources/CoreDataGenerated/CaseStudy1/CaseStudy1+CoreDataModel.swift"
+  : [1663566515, 476496458]
+  ? "/Users/adminn/Documents/CaseStudy1/CaseStudy1/build/CaseStudy1.build/Release-iphoneos/CaseStudy1.build/DerivedSources/CoreDataGenerated/CaseStudy1/EmployeeData+CoreDataClass.swift"
+  : [1663566515, 478683948]
+  ? "/Users/adminn/Documents/CaseStudy1/CaseStudy1/build/CaseStudy1.build/Release-iphoneos/CaseStudy1.build/DerivedSources/CoreDataGenerated/CaseStudy1/EmployeeData+CoreDataProperties.swift"
+  : [1663566515, 479646444]
